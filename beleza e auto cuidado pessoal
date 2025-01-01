@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beleza e Auto Cuidados Pessoais</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #ff6f61;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Beleza e Auto Cuidados Pessoais</h1>
+    </header>
+    <nav>
+        <a href="#introducao">Introdução</a>
+        <a href="#capitulo1">Cuidados Pessoais</a>
+        <a href="#capitulo2">Pele</a>
+        <a href="#capitulo3">Cabelo</a>
+        <a href="#capitulo4">Corpo</a>
+        <a href="#capitulo5">Mente</a>
+        <a href="#capitulo6">Sustentabilidade</a>
+    </nav>
+    <main>
+        <section id="introducao">
+            <h2>Introdução</h2>
+            <p>A beleza e os cuidados pessoais estão profundamente conectados com o bem-estar físico, emocional e mental. Este site foi criado para inspirar você a cuidar de si mesmo de maneira sustentável e equilibrada.</p>
+        </section>
+        <section id="capitulo1">
+            <h2>Capítulo 1: A Importância dos Cuidados Pessoais</h2>
+            <p>Cuidados pessoais vão além da aparência; envolvem higiene, saúde e bem-estar emocional. Pequenos hábitos diários podem fazer uma grande diferença na forma como você se sente consigo mesmo.</p>
+        </section>
+        <section id="capitulo2">
+            <h2>Capítulo 2: Rotina de Cuidados com a Pele</h2>
+            <p>Identifique seu tipo de pele e siga uma rotina que inclua limpeza, hidratação e proteção solar. Cuidados específicos, como esfoliação e máscaras faciais, também são recomendados.</p>
+        </section>
+        <section id="capitulo3">
+            <h2>Capítulo 3: Cuidados com o Cabelo</h2>
+            <p>Escolha produtos adequados para o seu tipo de cabelo e mantenha uma rotina que inclua hidratações regulares e proteção contra danos externos.</p>
+        </section>
+        <section id="capitulo4">
+            <h2>Capítulo 4: Cuidados com o Corpo</h2>
+            <p>Higiene diária, hidratação da pele e uma boa alimentação contribuem para a saúde e beleza do corpo. Atividades físicas também ajudam no bem-estar geral.</p>
+        </section>
+        <section id="capitulo5">
+            <h2>Capítulo 5: Cuidados com a Mente</h2>
+            <p>Práticas como meditação e mindfulness ajudam a reduzir o estresse e promovem uma relação positiva entre mente e corpo.</p>
+        </section>
+        <section id="capitulo6">
+            <h2>Capítulo 6: Dicas Sustentáveis</h2>
+            <p>Escolha produtos ecológicos e cruelty-free, e explore cuidados caseiros com ingredientes naturais para uma rotina mais sustentável.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Beleza e Auto Cuidados. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
